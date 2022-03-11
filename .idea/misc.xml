@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment1.xml" value="0.33" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment10.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment10_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment11.xml" value="1.3026315789473684" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment11_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment12.xml" value="1.3026315789473684" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment12_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment13.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment13_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment14.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment14_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment15.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment15_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment16.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment16_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment1_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment2.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment2_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment3.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment3_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment4.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment4_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment5.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment5_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment6.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment6_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment7.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment7_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment8.xml" value="1.3026315789473684" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment8_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment9.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_apartment9_edit.xml" value="0.358695652173913" />
+        <entry key="..\:/Users/ggrna/AndroidStudioProjects/houseapp/app/src/main/res/layout/activity_main.xml" value="0.358695652173913" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

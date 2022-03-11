@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.houseapp.app">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Houseapp">
+        <activity
+            android:name=".apartment1_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment1"
+            android:exported="false" />
+        <activity
+            android:name=".apartment2_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment2"
+            android:exported="false" />
+        <activity
+            android:name=".apartment3_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment3"
+            android:exported="false" />
+        <activity
+            android:name=".apartment4_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment4"
+            android:exported="false" />
+        <activity
+            android:name=".apartment5_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment5"
+            android:exported="false" />
+        <activity
+            android:name=".apartment6_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment6"
+            android:exported="false" />
+        <activity
+            android:name=".apartment7_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment7"
+            android:exported="false" />
+        <activity
+            android:name=".apartment8_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment8"
+            android:exported="false" />
+        <activity
+            android:name=".apartment9_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment9"
+            android:exported="false" />
+        <activity
+            android:name=".apartment10_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment10"
+            android:exported="false" />
+        <activity
+            android:name=".apartment11_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment11"
+            android:exported="false" />
+        <activity
+            android:name=".apartment12_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment12"
+            android:exported="false" />
+        <activity
+            android:name=".apartment13_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment13"
+            android:exported="false" />
+        <activity
+            android:name=".apartment14_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment14"
+            android:exported="false" />
+        <activity
+            android:name=".apartment15_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment15"
+            android:exported="false" />
+        <activity
+            android:name=".apartment16_edit"
+            android:exported="false" />
+        <activity
+            android:name=".apartment16"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+    <uses-permission android:name="android.permission.CALL_PHONE"/>
+</manifest>
